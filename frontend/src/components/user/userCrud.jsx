@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import Main from '../template/Main'
+import Main from '../templates/Main'
 
 const headerProps = {
     icon: 'users',
